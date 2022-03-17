@@ -1,0 +1,21 @@
+body {
+  width: 1040px;
+  margin: 0 auto;
+}
+
+.introduction ul li {
+  color: #63088d;
+  font-family: Helvetica, sans-serif;
+  font-size: 100%;
+}
+
+.introduction .introduction__description {
+  color: #63088d;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.2em;
+}
+header h1 {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
